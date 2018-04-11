@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_array">
+        <item>兴趣频道</item>
+        <item>译榜</item>
+        <item>评论</item>
+        <item>草稿</item>
+        <item>设置</item>
+    </string-array>
+</resources>

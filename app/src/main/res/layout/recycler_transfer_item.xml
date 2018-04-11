@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="18dp"
+   >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/image_transfer_circle"
+            android:layout_gravity="center"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="8dp"
+            android:layout_width="12dp"
+            android:layout_height="12dp"></ImageView>
+        <TextView
+            android:layout_marginRight="15dp"
+            android:id="@+id/text_transfer_item_original"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/color_Black"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <EditText
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="15dp"
+            android:padding="8dp"
+            android:id="@+id/edit_transfer_item_translation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/color_Primary"
+            android:background="@color/color_Smok"
+            android:hint="请输入您的译文"/>
+    </LinearLayout>
+
+</LinearLayout>

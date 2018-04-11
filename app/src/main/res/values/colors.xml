@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_Primary">#4990E2</color>//一般色
+    <color name="color_Warning">#F27071</color>//警告色
+    <color name="color_Health">#13CE66</color>//健康色
+    <color name="color_Black">#000000</color>//纯黑
+    <color name="color_NBlack">#4A4A4A</color>//非纯黑
+    <color name="color_Gray">#9B9B9B</color>//灰色
+    <color name="color_LGray">#CECECE</color>//淡灰色
+    <color name="color_Smok">#EAEAEA</color>//烟色
+    <color name="color_LSmok">#F7F7F7</color>//淡烟色
+    <color name="color_white">#FFFFFF</color>//白色
+    <color name="color_Lorange">#FABE5B</color>
+    <!--蓝灰色-->
+    <color name="color_grayblue">#CCCCFF</color>
+    <color name="transparent_background_button">#11000000</color>
+</resources>

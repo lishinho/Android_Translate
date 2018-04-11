@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">译一</string>
+    <string name="signup">注册</string>
+    <string name="signin">登录</string>
+    <string name="qq_sign">QQ登录</string>
+    <string name="username">Ytssss</string>
+    <string name="next">下一步</string>
+    <string name="draft">草稿</string>
+    <string name="submit">提交</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="input">请输入验证码</string>
+</resources>
